@@ -89,4 +89,4 @@ foo.subscribe { print("Filtered reads: "); print(it)}
 
 outputChannel
 .collectFile(name: "./final.txt", newLine: false)
-.subscribe { print("/nFINISHED.\nFinal output saved to 'final.txt'\n")}
+.subscribe { print("FINISHED.\nFinal output saved to 'final.txt'\n")}
