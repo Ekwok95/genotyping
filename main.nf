@@ -1,5 +1,5 @@
 
-params.infile = "./demodata.csv"
+params.infile = "$baseDir/demodata.csv"
 
 
 params.species = "mouse"
