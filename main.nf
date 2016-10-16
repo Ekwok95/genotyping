@@ -1,5 +1,5 @@
 
-//params.infile = "./makeup.csv"
+params.infile = "./demodata.csv"
 
 
 params.species = "mouse"
